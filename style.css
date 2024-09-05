@@ -1,0 +1,38 @@
+#blog-title {
+	text-align: center;
+}
+#total-blogs {
+	text-align: center;
+    font-size: large;
+}
+
+#blog-posts {
+	margin-top: 20px;
+}
+
+.post {
+	margin-bottom: 20px;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.post img {
+	width: 100%;
+	height: 200px;
+	object-fit: cover;
+	margin-bottom: 10px;
+}
+
+.post h2 {
+	margin-top: 0;
+}
+
+.post p {
+	margin-bottom: 10px;
+}
+
+#total-blogs {
+	margin-bottom: 10px;
+}
